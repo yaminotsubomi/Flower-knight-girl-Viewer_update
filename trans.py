@@ -1,3 +1,6 @@
+#使用方式：复制到package.nw，运行该py。然后运行update_cn.py
+#可能有bug，我小白
+
 import re
 import html
 from urllib import parse
